@@ -20,4 +20,4 @@ def play2048():
     
         tries += 1
 
-    print('The final score is: ' + scoreElem.text)
+    print('The final score is:  ' + scoreElem.text)
