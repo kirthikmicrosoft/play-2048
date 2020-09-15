@@ -8,4 +8,4 @@ python:
 install:
   - pip install pytest
   - pip install selenium
-script: py.test -v
+script: py.test -v 
